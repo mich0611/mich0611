@@ -1,8 +1,9 @@
-# It's me
+# - All about me -
 - 👋 Hi, I’m @mich0611, nice to meet you here!
 - 👀 I’m interested in Machine Learning Things
-- 🌱 I’m currently learning Reinforcement learning, one branch of machine learning.
+- 🌱 I’m currently learning Reinforcement learning, one branch of machine learning
 - 📫 How to reach me : michaelchen0611@gmail.com
+- ✨ Studying in National Tsing Hua University now
 
 <!---
 mich0611/mich0611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
